@@ -1,0 +1,52 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.header{
+    width: 100%;
+    height: 94px;
+    background-color: #1f4c87;
+    display: flex;
+}
+.facebookwriting{
+    margin: 0;
+    margin-left: 159px;
+    padding-top: 25px;
+    color: antiquewhite;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header1{
+    width:50%;
+    height: 94px;}
+.header2{
+    width: 50%;
+    height: 94;
+    display: flex;
+}
+.loginform{
+    margin: 0;
+    margin-left: 159px;
+    padding-top: 25px;
+    color: antiquewhite;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.password{
+    margin: 0;
+    margin-left: 15px;
+    padding-top: 25px;
+    color: antiquewhite;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.loginbutton{
+    height: 33px;
+    margin-top: 33px;
+    margin-left: 5px;
+    background-color: blue;
+    color: aliceblue;
+
+}
